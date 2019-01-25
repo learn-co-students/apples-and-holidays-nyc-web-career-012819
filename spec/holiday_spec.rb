@@ -133,8 +133,8 @@ TEXT
       all_supplies_in_holidays(holiday_supplies)
     end
 
-    # it "should output the formatted list of holidays and their supplies" do
-    #   expect($stdout).to receive(:puts).with(@output)
+  #   it "should output the formatted list of holidays and their supplies" do
+   #    expect($stdout).to receive(:puts).with(@output)
     #   all_supplies_in_holidays(holiday_supplies)
     # end
 
